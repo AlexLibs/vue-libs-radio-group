@@ -4,7 +4,7 @@ A simple and super light Vue.js component for fancy radio group (state switch).
 
 No dependencies. No sass/less compilation. Very easy to use :).
 
-<img src="https://raw.githubusercontent.com/AlexLibs/vue-libs-simple-toggle/master/demo/vue-libs-radio-group-demo.png" /><br>
+<img src="https://github.com/AlexLibs/vue-libs-radio-group/blob/master/demo/vue-libs-radio-group-demo.png" /><br>
 
 ## Installation
 
