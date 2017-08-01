@@ -43,12 +43,15 @@ Override the relevant classes to customize it. For example, to make it all blue 
 
 ```css
     .vue-libs-radio-group {
-        border: 1px solid blue;
+            border: 1px solid blue!important;
     }
     .vue-libs-radio-group label {
-        border-right: 1px solid blue;
+            border-right: 1px solid blue!important;
     }
     .vue-libs-radio-group input[type="radio"]:checked + label {
-        background-color: blue;
+            background-color: blue!important;
+    }
+    .vue-libs-radio-group label:last-child {
+        border-right: none!important;
     }
 ```
